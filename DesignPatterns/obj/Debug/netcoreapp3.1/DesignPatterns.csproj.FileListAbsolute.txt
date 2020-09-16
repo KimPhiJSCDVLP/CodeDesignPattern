@@ -1,0 +1,11 @@
+C:\Users\phi.lekim\source\repos\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.exe
+C:\Users\phi.lekim\source\repos\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
+C:\Users\phi.lekim\source\repos\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
+C:\Users\phi.lekim\source\repos\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
+C:\Users\phi.lekim\source\repos\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Users\phi.lekim\source\repos\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\Users\phi.lekim\source\repos\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\phi.lekim\source\repos\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\phi.lekim\source\repos\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+C:\Users\phi.lekim\source\repos\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Users\phi.lekim\source\repos\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb

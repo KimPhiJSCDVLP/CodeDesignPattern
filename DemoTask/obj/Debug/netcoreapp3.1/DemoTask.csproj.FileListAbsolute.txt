@@ -1,0 +1,11 @@
+C:\Users\phi.lekim\source\repos\DemoTask\bin\Debug\netcoreapp3.1\DemoTask.exe
+C:\Users\phi.lekim\source\repos\DemoTask\bin\Debug\netcoreapp3.1\DemoTask.deps.json
+C:\Users\phi.lekim\source\repos\DemoTask\bin\Debug\netcoreapp3.1\DemoTask.runtimeconfig.json
+C:\Users\phi.lekim\source\repos\DemoTask\bin\Debug\netcoreapp3.1\DemoTask.runtimeconfig.dev.json
+C:\Users\phi.lekim\source\repos\DemoTask\bin\Debug\netcoreapp3.1\DemoTask.dll
+C:\Users\phi.lekim\source\repos\DemoTask\bin\Debug\netcoreapp3.1\DemoTask.pdb
+C:\Users\phi.lekim\source\repos\DemoTask\obj\Debug\netcoreapp3.1\DemoTask.csprojAssemblyReference.cache
+C:\Users\phi.lekim\source\repos\DemoTask\obj\Debug\netcoreapp3.1\DemoTask.AssemblyInfoInputs.cache
+C:\Users\phi.lekim\source\repos\DemoTask\obj\Debug\netcoreapp3.1\DemoTask.AssemblyInfo.cs
+C:\Users\phi.lekim\source\repos\DemoTask\obj\Debug\netcoreapp3.1\DemoTask.dll
+C:\Users\phi.lekim\source\repos\DemoTask\obj\Debug\netcoreapp3.1\DemoTask.pdb
